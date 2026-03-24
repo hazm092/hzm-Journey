@@ -1,0 +1,6 @@
+.terraform/
+echo *.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+hzm-env/
+__pycache__/
