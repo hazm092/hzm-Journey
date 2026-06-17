@@ -4,3 +4,4 @@ echo *.tfstate
 .terraform.lock.hcl
 hzm-env/
 __pycache__/
+venv/
