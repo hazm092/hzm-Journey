@@ -1,6 +1,6 @@
 # HZM Cloud Security Portfolio
 
-Self-directed cloud security learner. AWS Solutions Architect Associate in progress (exam July 31, 2026).
+Self-directed cloud security learner. AWS Solutions Architect Associate in progress (exam August 31, 2026).
 
 ## Projects
 
